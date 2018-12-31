@@ -43,7 +43,7 @@
     "flush-write-stream": "^1.0.2",
     "fs-compare": "^0.0.4",
     "get-port": "^3.2.0",
-    "glslify": "^7.0.0",
+    "glslify": "s3ththompson/glslify#switch-transform-ast",
     "gzip-size": "^4.1.0",
     "hstream": "^1.1.0",
     "html-minifier": "^3.5.8",
